@@ -112,7 +112,6 @@ class DeveloperNamesWidget extends StatelessWidget {
         const SizedBox(height: 8),
         Text('Miguel Carapaz'),
         Text('David Basantes'),
-        Text('Jose Pinos'),
       ],
     );
   }
