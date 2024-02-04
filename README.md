@@ -27,7 +27,10 @@ Este proyecto consiste en una aplicación multiplataforma desarrollada en Flutte
 ## Ejecutables y Descargas
 
 - Los ejecutables de la aplicación para dispositivos móviles (APK) se encuentran en la carpeta `installer` de este repositorio.
+![Imagen Movil](URL de la imagen)
+
 - Los ejecutables de la aplicación de escritorio para Windows se encuentran en la carpeta `installer` de este repositorio.
+![Imagen PC](URL de la imagen)
 
 ## Instrucciones de Configuración de Firebase
 
